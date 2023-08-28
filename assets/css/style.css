@@ -24,6 +24,11 @@ a:hover {
   text-decoration: none;
 }
 
+/* Remove bullets from the list */
+ul {
+  list-style: none;
+}
+
 h1,
 h2,
 h3,
